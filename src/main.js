@@ -3,4 +3,4 @@ import 'bootstrap';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import './css/style.css';
 
-import image from './assets/images/currency.png';
+import  './assets/images/currency.png';
