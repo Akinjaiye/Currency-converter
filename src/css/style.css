@@ -18,3 +18,11 @@ body{
     padding: 32px;
     border-radius: 12.8px;
 }
+.app-details{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+img{
+    
+}
