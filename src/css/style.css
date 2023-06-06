@@ -24,5 +24,10 @@ body{
     flex-direction: column;
 }
 img{
-    
+    width: 150px;
+}
+.app-title{
+    font-size:19.2px ;
+    text-transform: uppercase;
+    margin-bottom: 16px;
 }
